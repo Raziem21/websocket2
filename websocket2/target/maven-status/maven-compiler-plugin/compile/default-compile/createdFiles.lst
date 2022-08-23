@@ -1,0 +1,4 @@
+co\develhope\websocket2\controllers\Notification.class
+co\develhope\websocket2\configurations\WebSocketConfig.class
+co\develhope\websocket2\entities\SimpleMessageDTO.class
+co\develhope\websocket2\Websocket2Application.class
